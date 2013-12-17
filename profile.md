@@ -11,4 +11,4 @@ Web Programmer
 
 Location
 --------
-Japan
+Fukuoka, Japan
