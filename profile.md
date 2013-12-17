@@ -8,3 +8,7 @@ mawatari
 Work
 ----
 Web Programmer
+
+Location
+--------
+Fukuoka, Japan
