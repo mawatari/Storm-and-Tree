@@ -15,4 +15,4 @@ Fukuoka, Japan
 
 Email
 -----
-mawatari@example.jp
+mawatari@example.com
